@@ -1,5 +1,5 @@
 void foo()
 {
-	int i=1;
+	int i=3;
 	cout << 1;
 }
