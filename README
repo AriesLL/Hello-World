@@ -1,5 +1,6 @@
 void foo()
 {
-	int i=1;
+//comment check whether you can 
+	int i=10;
 	cout << 1;
 }
