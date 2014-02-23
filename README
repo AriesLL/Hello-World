@@ -4,5 +4,9 @@ void foo()
 //comment check whether you can 
 	int i=10;
 
+
+//comment check whether you can 
+	int i=10;
+
 	cout << 1;
 }
